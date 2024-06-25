@@ -1,0 +1,33 @@
+.Nosotros
+{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 50px;
+background-color: cadetblue;
+
+
+}
+.Titulo
+{
+    font-size: 70px;
+    text-decoration: underline;
+    background-color: brown;
+    border: solid red 8px;
+    text-align: center;
+}
+.img
+{
+    text-align: center;
+    border: solid black 3px;
+}
+.text
+{
+    background-color: cadetblue;
+    border: solid; color: aquamarine;
+    
+}
+.int
+{
+    background-color:cadetblue;
+    border: solid;
+    
+}
